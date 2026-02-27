@@ -297,6 +297,18 @@ textarea:focus {
     .wp-block-jetpack-layout-grid-column {
         padding: var(--spacing-md);
     }
+
+    .header-inner {
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        gap: 1rem !important;
+    }
+
+    .main-navigation ul.menu {
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        gap: 0.5rem !important;
+    }
 }
 
 /* Hero Slider */
